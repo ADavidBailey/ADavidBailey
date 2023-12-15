@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ADavidBailey
+- 👋 Hi, I’m David Bailey
 - 👀 I’m interested in Bridge, and more specifically Practice Bidding Scenarios
-- 🌱 I’m currently learning GitHub
 - 📫 How to reach me via email adavidbailey@gmail.com
 
 <!---
